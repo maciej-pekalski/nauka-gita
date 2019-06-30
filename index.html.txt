@@ -2,10 +2,10 @@
 <html lang="pl">
 <meta charset="utf-8">
     <head>
-        <title>Maciej</title>
+        <title>Tom</title>
     </head>
     <body>
-        <h1>Maciej</h1>
+        <h1>Adam</h1>
         <p>Absolwent prawa (Uniwersytet Wroc³awski). Obecnie - pracujê w administracji centralnej. Wczeœniej biznes i bran¿a odszkodowawcza. Skoñczy³em tak¿e studia podyplomowe na KSAP, SGH oraz Collegium Civitas. Moim celem jest nauczyæ siê programowania.</p>
         <img src="https://images.pexels.com/photos/2078263/pexels-photo-2078263.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
         <img src="https://images.pexels.com/photos/1038935/pexels-photo-1038935.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
