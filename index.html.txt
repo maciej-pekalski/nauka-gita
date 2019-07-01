@@ -2,7 +2,7 @@
 <html lang="pl">
 <meta charset="utf-8">
     <head>
-        <title>Tom</title>
+        <title>Jan</title>
     </head>
     <body>
         <h1>Jaœ i Ma³gosia</h1>
