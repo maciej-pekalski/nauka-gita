@@ -6,7 +6,7 @@
     </head>
     <body>
         <h1>Ma³gosia</h1>
-        <p>Absolwent prawa (Uniwersytet Wroc³awski). Obecnie - pracujê w administracji centralnej. Wczeœniej biznes i bran¿a odszkodowawcza. Skoñczy³em tak¿e studia podyplomowe na KSAP, Uwr, SGH oraz Collegium Civitas. Moim celem jest nauczyæ siê programowania.</p>
+        <p>Absolwent prawa (Uniwersytet Wroc³awski). Obecnie - pracujê w administracji centralnej. Wczeœniej biznes i bran¿a odszkodowawcza. Skoñczy³em tak¿e studia podyplomowe na KSAP, Uwr, SGH oraz Collegium Civitas. Moim celem jest nauczyæ siê programowania. Dlaczego tak zrobi³em?</p>
         <img src="https://images.pexels.com/photos/2078263/pexels-photo-2078263.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
         <img src="https://images.pexels.com/photos/1038935/pexels-photo-1038935.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
         <h2>zainteresowania</h2>
